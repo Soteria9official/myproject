@@ -1,0 +1,33 @@
+.jumbotron-fluid{
+    background-color: white;
+    height: 100%;
+    width: 100%;
+}
+.row{
+    margin: 0 0 0 0!important;
+}
+.form{
+    background-color:white;
+    height:50%;
+    margin-top: 10%;
+}
+.logo{
+    margin-left: 20%;
+    margin-top: 12%;
+}
+.form-control{
+    width: 90%;
+    margin-left: 5%;
+}
+.txt{
+    margin-top: 5%;
+    margin-left: 5%;
+}
+.text{
+    margin-left: 12%;
+    font-size: 30px;
+}
+.btn-block{
+    width:90%;
+    margin-left: 5%;
+}

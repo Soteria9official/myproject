@@ -1,0 +1,224 @@
+.btn-touch{
+    background-color: green;
+    color: white;
+    border-color: green;
+}
+.btn-touch:hover{
+    background-color: green;
+    color: white;
+    border-color: green;
+}
+.wrapnav{
+    background-image: url("../images/mypadi.jpg");
+    background-size: cover;
+    background-position: center;
+    position:relative;
+    height: 80%;
+    width: 100%;   
+}
+@media (max-width: 576px) {
+    .wrapnav{
+        width: 125%;
+        height: 80%;
+
+    }
+}
+.overlay{
+    position:absolute;
+    top: 0;
+    left:0;
+    height: 100%;
+    width: 100%;
+    background-color: #212529;
+    opacity: 0.6;
+    margin-bottom: 0;
+}
+ul{
+    margin-left:400px;
+}
+.nav-link{
+    color: white;
+    margin-right: 10;
+    margin-top: 25;
+    margin-left: 10;
+}
+.row{
+    margin: 0 0 0 0!important;
+}
+.nav-link:hover{
+    color:white;
+}
+.navbar-brand{
+    margin-top: 30;
+    margin-left: 50;
+}
+.a{
+   margin-top:14%;
+}
+h2{
+    color:white;
+}
+.btn{
+    color: white;
+    border-color: white;
+    margin-right: 10;
+    margin-top:20; 
+}
+.bot{
+    height: 3rem;
+    width: 5 rem;
+}
+.card-body{
+    
+    position: absolute;
+    margin-inline-start: 100%;
+    margin-bottom: 100%;
+    padding-right: 18rem;
+    padding-top: 0.5rem;
+    margin-right:90%;
+}
+.w{
+    margin-left: 10%;
+    margin-top: 5%;
+
+}
+.col-md{
+    padding-top: 5%;
+
+}
+.text-center{
+    padding-bottom: 40%;
+    padding-top: 30%;
+}
+.my-container{
+    padding-left: 5rem!important;
+    padding-top: 5rem!important;
+    padding-bottom: 8rem!important;
+}
+.media{
+    padding-bottom: 10%;
+    padding-left:4rem;
+    padding-top:3rem;
+}
+.media-body{
+    padding-left: 2rem;
+}
+.card{
+    text-align: center;
+    image-rendering: crisp-edges;
+}
+.jumbotron{
+    background-image:url("../images/map2b52.jpg");
+    background-position: center;
+    background-size: cover;
+    position: relative;
+    padding-top: 1%;
+     height: 25rem!important;
+}
+.build{
+    padding-top: 1%;
+    text-align: center;
+    padding-right: 70px;
+    padding-left: 70px;
+    
+    width: 100%;
+}
+
+.jumbo{
+padding-top: 5%;
+padding-left: 5%;
+}
+
+.explore-links-container {
+    padding-top: 2rem!important;
+    width: 30!important;
+    height: 50!important;
+    display: flex;
+}
+
+.explore-title {
+    font-size: 17px;
+    line-height: 21px;
+    color: #484848;
+    padding-left: 10px;
+    padding-right: 4rem;
+    padding-top: 2.5rem;
+}
+
+span:active,
+span:focus,
+span:hover {
+    text-decoration: none;
+}
+
+.explore-card {
+    padding-right: 2rem;
+}
+
+.explore-content-wrapper {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+}
+.hero-form{
+    background-image: url("../images/padi_banner.png");
+    background-size: cover;
+    background-position: center;
+    position:relative;
+    height: 80%;
+    width: 100%; 
+    padding-bottom: 5%;
+    padding-top: 5%;
+      
+}
+.min-img{
+    padding-left:4rem;
+    width: 20%;
+}
+.word{
+    text-align: center;
+}
+.scroll{
+    margin-top: 0;
+    background-color: green;
+}
+.scroll:hover{
+    background-color: green;
+}
+.input-group{
+    width: 50%;
+}
+.head{
+    padding-top: 3rem;
+}
+.contact{
+    color:black;
+    margin-left: 0;
+    padding:0px;
+}
+.contact:hover{
+    color:green;
+}
+li{
+    list-style-type:none;
+}
+.active{
+    color: black;
+    margin: 0 auto;
+    padding: 0px;
+}
+.active:hover{
+      color: green;
+}
+.footer-bottom{
+    padding-left: 5rem;
+    padding-bottom: 5rem;
+}
+.float-right{
+    padding-left:3rem;
+}
+
+
+
+    
+

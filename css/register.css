@@ -1,0 +1,64 @@
+.wrapnav{
+    background-image: url("../images/mypadi.jpg");
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 50%;
+    position:relative;
+}
+.overlay{
+    position:absolute;
+    top: 0;
+    left:0;
+    height: 100%;
+    width: 100%;
+    background-color: #212529;
+    opacity: 0.9;
+    margin-bottom: 0;
+}
+.form{
+    margin-top: 20px;
+    background-color: white;
+    width: 419px;
+    height: 620px;
+}
+.row{
+    margin: 0 0 0 0!important;
+}
+.logo{
+    margin-left: 25%;
+}
+.txt{
+     text-align: center;
+     margin-top: 5%;
+}
+.custom-control-inline{
+    margin-left: 7%;
+}
+.first{
+    margin-top: 6%;
+}
+.second{
+    margin-top: 6%;
+}
+.Third{
+    margin-top: 6%;
+}
+.date input{
+    width: 48.5px;
+    display: inline-flex;
+}
+.fourth{
+    margin-top: 6%;
+}
+.btn-block{
+    margin-top: 6%;
+}
+.touch{
+    color: green;
+}
+.set{
+    margin-top: 1px;
+}
+.tech{
+    font-size: 13px;
+}

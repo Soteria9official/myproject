@@ -1,0 +1,114 @@
+.wrapnav{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0.5,0.5,0.5,0.8)),url("../images/mypadi.jpg");
+    background-size: contain;
+    background-position: center;
+    position:relative;
+    height: 100%;
+    width: 100%;   
+}
+.nav-link{
+    color:rgb(126, 122, 122);
+    margin-right: 25;
+    margin-top: 30;
+    margin-left: 5;
+    padding-right: 2px;
+    padding-left: 2px;
+}
+.nav-link:hover{
+    color:black;
+}
+.navbar-brand{
+    margin-top: 25;
+    margin-left: 25;
+}
+.bg-light input[type=text] {
+    
+    margin-top: 40px;
+    font-size: 16px;
+    margin-right:25%;
+    border: 3px solid whitesmoke;
+}
+h2{
+    margin-top: 30%;
+    color:white;
+    font-size: 5rem;
+    margin-left: 80px;
+}
+.btn-primary{
+    color: white;
+    border-color: green;
+    margin-left: 40%;
+    background-color: rgb(9, 175, 9);
+    
+}
+.btn-success:hover{
+    color:white;
+    background-color:blue;
+}
+.jumbotron-fluid{
+    background-color: white;
+}
+h1{
+    margin-left: 7%;
+    margin-top: 10%;
+}
+.row{
+    margin: 0 0 0 0!important;
+}
+.hero-heading{
+    text-align: center;
+    padding-right: 7%;
+}
+.classic-mid{
+    padding-top: 60px;
+}
+.hero-header{
+    text-align: center;
+    padding-left: 35%;
+}
+.mid-side{
+    padding-top: 50px;
+}
+.hero-head{
+    margin-left:1%;   
+    text-align-last: center;
+}
+.header{
+    margin-top: 5%;
+}
+.head{
+    margin-top: 5rem;
+}
+li{
+    list-style-type: none;
+}
+.active{
+    margin: 0 auto;
+    color: black;
+}
+.active:hover{
+    color: green;
+}
+.contact{
+    margin: 0 auto;
+    color: black;
+}
+.contact:hover{
+    color: green;
+}
+.mb-3{
+    width: 70%;
+}
+.scroll{
+    color: white;
+    background-color: green;
+    height: 6%;
+    margin-right: 50%;
+}
+.scroll:hover{
+    color:white;
+    background-color: rgb(1, 1, 255);
+}
+.float-right{
+    padding-left:3rem;
+}
